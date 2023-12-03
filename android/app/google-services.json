@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "77886534151",
+    "project_id": "zoobiappstask-b669b",
+    "storage_bucket": "zoobiappstask-b669b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77886534151:android:43372ca7123e07579130a2",
+        "android_client_info": {
+          "package_name": "com.zoobiappstask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77886534151-ef6uqkpq91i6j0s0276vkfsq8k7e94mb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zoobiappstask",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "77886534151-0ttul5s430g046h9tfott277vun9facr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9V8XMNhnyIaG7WJaVGF_c0z3D9E8lOOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77886534151-0ttul5s430g046h9tfott277vun9facr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
